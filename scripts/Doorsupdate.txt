@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/statuev3_script/main/doors"))()
+--tHUln8oAQP
